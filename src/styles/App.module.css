@@ -1,0 +1,28 @@
+html{
+  overflow: hidden;
+  background-color: rgb(245, 245, 245)
+}
+
+.menu{
+  display: flex; 
+  justify-content: center
+}
+
+.menuItem {
+  text-align: center
+}
+
+.addtodoContainer{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-Items: center;
+}
+
+.layoutContent{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-Items: center;
+  overflow: hidden
+}
